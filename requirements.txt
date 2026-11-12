@@ -1,0 +1,14 @@
+google-api-python-client
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+vaderSentiment
+transformers
+sentence-transformers
+torch
+networkx
+matplotlib
+seaborn
+wordcloud

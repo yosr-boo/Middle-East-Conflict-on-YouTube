@@ -1,0 +1,4 @@
+# Raw comment data contains personal data and is not published
+*.csv
+data/
+.ipynb_checkpoints/
